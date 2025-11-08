@@ -1,6 +1,6 @@
-#gitinclude <iostream>
+#include <iostream>
 using namespace std ;
 int main() {
-    cout << "Hello worldgit";
+gcout << "Hello worldgit";
 return 0;
 }
